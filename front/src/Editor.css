@@ -1,0 +1,17 @@
+/*
+ * Project 2
+ * Editor component CSS source code
+ *
+ * Author: Denis Gracanin, Sibtain Hussain
+ * Version: 1.0
+ */
+/* Project 1 solution skeleton code, this is left unchanged */
+#newElement {
+    align-content: center;
+}
+
+.centerDiv {
+    align-content: center;
+    text-align: center;
+    padding-bottom: 10px;
+}

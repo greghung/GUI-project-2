@@ -1,0 +1,32 @@
+/*
+ * Project 2
+ * BarChart component CSS source code
+ *
+ * Author: Denis Gracanin
+ * Version: 1.0
+ */
+/* Project 1 solution skeleton code, this is left unchanged */
+svg {
+  font-family: Arial;
+  text-anchor: middle;
+}
+
+#title {
+  font-size: 3pt;
+  fill: black;
+}
+
+#labels,
+#values {
+  font-size: 1pt;
+  fill: grey;
+}
+
+#lines {
+  stroke: silver;
+  stroke-width: 0.1pt;
+}
+
+#bars {
+  fill: dodgerblue;
+}
